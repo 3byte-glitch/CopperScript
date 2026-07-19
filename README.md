@@ -1,8 +1,8 @@
-# CopperScript 🚀
+# CopperScript
 
 CopperScript is a custom-built, lightweight scripting language interpreter written from scratch in C++. It features a minimalist syntax, support for variables, interactive user inputs, standard operations, and localized code block looping.
 
-## ✨ Features
+## Features
 
 * **Variables**: Dynamically create and store string or integer types.
 * **Input handling**: Use the `INPUT` keyword to grab text or numbers straight from the terminal.
@@ -10,6 +10,10 @@ CopperScript is a custom-built, lightweight scripting language interpreter writt
 * **Block Loops**: Group multi-line commands together using `repeat` and `endloop` blocks.
 * **Syntax Validation**: Built-in debugger checking to flag syntax errors before running your code.
 
-## 🛠️ Download
+## Download
 
+1. Open [this link](https://github.com/3byte-glitch/CopperScript/releases/tag/v1.0.0) on another tab
+2. Go to the latest release and click on CopperScript.exe
+3. Enjoy!
 
+Note: Type 'RUN' after writing your code to run it
